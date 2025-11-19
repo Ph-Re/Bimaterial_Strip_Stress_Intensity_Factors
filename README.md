@@ -1,0 +1,1 @@
+# Bimaterial_Strip_Stress_Intensity_Factors
