@@ -92,6 +92,3 @@ STRESS ... MPa
 STRESS INTENSITY FACTOR ... MPa $\sqrt{mm}$
 
 **Codes by Philipp Reindl**
-
-Published under a Creative Commons license:
-https://creativecommons.org/licenses/by-nc-nd/4.0/
