@@ -26,9 +26,9 @@ For the individual simulations, this setup is altered as necessary. The relevant
 
 *F* ... `force_magnitude`
 
-*µ<sub>1</sub>* ... Converted to elastic modulus (`wre_elastic_modulus`) via 2 *µ<sub>1</sub>* (1+$\nu_1$)
+*µ<sub>1</sub>* ... Converted to elastic modulus (`wre_elastic_modulus`) via 2 *µ<sub>1</sub>* (1+ $\nu_1$)
 
-$\mu_2$ ... Converted to elastic modulus (`tzm_elastic_modulus`) via 2 *µ<sub>2</sub>* (1+$\nu_2$)
+$\mu_2$ ... Converted to elastic modulus (`tzm_elastic_modulus`) via 2 *µ<sub>2</sub>* (1+ $\nu_2$)
 
 $\nu_1$ ... `wre_poisson_ratio`
 
@@ -94,3 +94,4 @@ STRESS INTENSITY FACTOR ... MPa $\sqrt{mm}$
 
 
 **Codes by Philipp Reindl**
+
