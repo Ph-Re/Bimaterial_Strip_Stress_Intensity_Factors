@@ -64,6 +64,7 @@ The same results as in **1.** are generated.
 
 ## 3. Stress Intensity Factor Calculation for Combined Loads (Thermal + 3PB) considering Plasticity and Residual Stresses without use of Singular Elements
 This simulation considers Plasticity in form of perfectly plastic yielding and Residual Stresses by performing thermal steps.
+For this the file *bimaterial-beam-thermal-residualStress-plasticity.py* is used.
 
 The temperature-dependent yield stresses are given for the respective materials via the variables `wre_plasticity` and `tzm_plasticity`.
 
@@ -90,5 +91,6 @@ TEMPERATURE ... K (equiv. °C)
 STRESS ... MPa
 
 STRESS INTENSITY FACTOR ... MPa $\sqrt{mm}$
+
 
 **Codes by Philipp Reindl**
